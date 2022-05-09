@@ -6,3 +6,4 @@ console.log('This is for feature1');
 console.log('Adding another console.log');
 console.log('This is another practice');
 console.log('This is for feature2');
+console.log('Another test');
